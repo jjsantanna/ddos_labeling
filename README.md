@@ -1,2 +1,2 @@
-# ddos_labeling
-DDoS Attack Filtering and Labeling 
+# DDoS Attack Filtering and Labeling
+See more (ddos_labeling.ipynb)[here]
